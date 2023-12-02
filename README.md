@@ -1,4 +1,4 @@
-# Pre Finals
+# CS 3101 Pre Finals
 
 
 1. The prefinals can be done at home.
